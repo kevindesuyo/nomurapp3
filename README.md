@@ -23,4 +23,4 @@ cd nomurapp
 docker-compose up --build -d
 ```
 
-その後 http://localhost8080 に接続、多分これで動く
+その後 http://localhost8000 に接続、多分これで動く
