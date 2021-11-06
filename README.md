@@ -20,7 +20,7 @@ cd nomurapp
 3. dockerコンテナを起動します。
 
 ```bash
-docker-compose up --build -d
+docker-compose up -d
 ```
 
 その後 http://localhost8000 に接続、多分これで動く
