@@ -14,7 +14,7 @@ git clone https://github.com/kevindesuyo/nomurapp3
 ```
 2.ディレクトリの移動
 ```
-cd nomurapp
+cd nomurapp3
 ```
 
 3. dockerコンテナを起動します。
@@ -23,4 +23,4 @@ cd nomurapp
 docker-compose up -d
 ```
 
-その後 http://localhost8000 に接続、多分これで動く
+その後 http://localhost:8000 に接続、多分これで動く
