@@ -10,7 +10,7 @@
 
 1. リポジトリのコピー
 ```
-git clone https://github.com/kevindesuyo/nomurapp
+git clone https://github.com/kevindesuyo/nomurapp3
 ```
 2.ディレクトリの移動
 ```
