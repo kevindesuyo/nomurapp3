@@ -23,4 +23,10 @@ cd nomurapp3
 docker-compose up -d
 ```
 
+4. data migrationします。
+
+``
+docker-compose excec web python manage.py migrate
+```
+
 その後 http://localhost:8000 に接続、多分これで動く
